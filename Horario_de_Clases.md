@@ -1,4 +1,3 @@
-# horario.md
 <!DOCTYPE html>
 <html>
 <body>
